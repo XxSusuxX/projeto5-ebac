@@ -25,7 +25,7 @@ utilize o localhost gerado para a aplicação
 
 > Deploy realizado na vercel, link disponível abaixo:
 
-<a href="https://exercicio-modulo32-ebac.vercel.app/">Lista de Contatos</a>
+<a href="https://projet-ebaccontatos-g8pdfohem-xxsusuxxs-projects.vercel.app">Lista de Contatos</a>
 
 #### Tecnologias utilizadas
 
